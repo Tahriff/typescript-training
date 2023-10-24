@@ -1,0 +1,1 @@
+const lengthArray = (a?: Array<any>) => a.length
